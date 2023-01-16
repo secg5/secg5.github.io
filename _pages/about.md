@@ -8,8 +8,8 @@ profile:
   align: right
   image: DSC_0119.jpg
   address: >
-    <p>secg95@gmail.com</p>
-    <p>Medellín, Colombia</p>
+    <p>scortesg@andrew.cmu.edu</p>
+    <p>Pittsburgh, Pennsylvania</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
