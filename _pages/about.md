@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Mathematician/ Machine learning engineer.
+description: Machine Learning PhD student.
 
 profile:
   align: right
