@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to give a talk to EAAMO!
+Invited to give a talk to EAAMO! Looking forward to connecting with researchers, see you in Mexico! 🇲🇽
