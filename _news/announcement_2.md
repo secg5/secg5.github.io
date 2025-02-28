@@ -5,8 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to ICML [Statistical Inference Under Constrained Selection Bias
-](https://arxiv.org/pdf/2306.03302)
+One paper accepted to ICLR 2025 see you in Singapore 🇸🇬![Utility-Directed Conformal Prediction: A Decision-Aware Framework for Actionable Uncertainty Quantification](https://arxiv.org/abs/2410.01767)
 
 
 <!-- ---
