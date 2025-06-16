@@ -64,8 +64,8 @@ jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
     #   pip3 install --upgrade jupyter
-        #   export JEKYLL_ENV=production
-        #   bundle exec jekyll build
+    #   export JEKYLL_ENV=production
+    #   bundle exec jekyll build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️

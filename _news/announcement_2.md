@@ -8,7 +8,6 @@ related_posts: false
 One paper accepted to ICML [Statistical Inference Under Constrained Selection Bias
 ](https://arxiv.org/pdf/2306.03302)
 
-
 <!-- ---
 layout: post
 title: A long announcement with details
