@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty](https://arxiv.org/abs/2605.07979) was accepted to NeurIPS 2026!
+Our paper [The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty](https://arxiv.org/abs/2605.07979) was accepted to NeurIPS 2026! 🇦🇺
